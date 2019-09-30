@@ -1,0 +1,8 @@
+{
+    "responses": [
+        { 200: "Hello, world!"               },
+        { 200: "GET message received"        },
+        { 200: "POST message received: "     },
+        { 405: "This method is unsupported." }
+    ]
+}
