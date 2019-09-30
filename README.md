@@ -13,5 +13,5 @@ students. This is an experimental idea that still requires buy in from other TAs
 
 # Data Layout
 
-WORK IN PROGRESS
-----------------
+    WORK IN PROGRESS
+    
